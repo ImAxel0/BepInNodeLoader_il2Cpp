@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BepInNodeLoaderIl2Cpp", "BepInNodeLoaderIl2Cpp.csproj", "{AA7BC4DC-1CBD-49A7-9FC1-33F1D689D8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7BC4DC-1CBD-49A7-9FC1-33F1D689D8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7BC4DC-1CBD-49A7-9FC1-33F1D689D8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7BC4DC-1CBD-49A7-9FC1-33F1D689D8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7BC4DC-1CBD-49A7-9FC1-33F1D689D8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A1AC78D-86DB-4234-8E2C-1BF5ECE3EE66}
+	EndGlobalSection
+EndGlobal
